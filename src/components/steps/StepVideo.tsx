@@ -38,7 +38,7 @@ export default function StepVideo() {
 
   return (
     <div className="mt-10 space-y-6">
-      <h2 className="text-xl font-bold">Etapa Video 1: Assista ao vídeo</h2>
+      <h2 className="text-xl font-bold">Etapa Video 1: Assista esse vídeo aqui</h2>
 
       <div className="relative w-full" style={{ paddingTop: '56.25%' }}>
         <iframe
